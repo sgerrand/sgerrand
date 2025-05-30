@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**sgerrand/sgerrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer based in the United Kingdom. :gb:
 
-Here are some ideas to get you started:
+### Contact info
+- Mail: hello@sgerrand.com
+- Keybase: https://keybase.io/sgerrand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgerrand&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgerrand&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sgerrand&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sgerrand&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sgerrand&theme=github)
