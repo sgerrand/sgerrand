@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a programmer based in the United Kingdom. :gb:
+I'm an open source software enthusiast, currently based in the United Kingdom. :gb:
 
 ### Recent pull requests
 
