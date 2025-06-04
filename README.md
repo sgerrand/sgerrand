@@ -5,11 +5,11 @@ I'm an open source software enthusiast, currently based in the United Kingdom. :
 ### Recent pull requests
 
 
+- [Modernise](https://github.com/codecov/example-elixir/pull/5) on [codecov/example-elixir](https://github.com/codecov/example-elixir) (today)
 - [Fix typos](https://github.com/mkrd/Flask-Squeeze/pull/22) on [mkrd/Flask-Squeeze](https://github.com/mkrd/Flask-Squeeze) (1 week ago)
 - [Test updates to GitHub Actions](https://github.com/sgerrand/wallaby/pull/1) on [sgerrand/wallaby](https://github.com/sgerrand/wallaby) (2 weeks ago)
 - [Review and report Mix dependencies](https://github.com/sgerrand/ex_pdf_shift/pull/4) on [sgerrand/ex_pdf_shift](https://github.com/sgerrand/ex_pdf_shift) (3 weeks ago)
 - [Review and report Mix dependencies](https://github.com/sgerrand/ex_humaans/pull/33) on [sgerrand/ex_humaans](https://github.com/sgerrand/ex_humaans) (3 weeks ago)
-- [Review and report Mix dependencies](https://github.com/sgerrand/ex_bamboo_hr/pull/23) on [sgerrand/ex_bamboo_hr](https://github.com/sgerrand/ex_bamboo_hr) (3 weeks ago)
 
 ### Recent sponsors (thank you!)
 
