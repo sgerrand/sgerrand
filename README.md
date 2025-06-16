@@ -5,11 +5,11 @@ I'm an open source software enthusiast, currently based in the United Kingdom. :
 ### Recent pull requests
 
 
+- [Actions: Reduce permissions for workflow jobs](https://github.com/sgerrand/ex_bamboo_hr/pull/26) on [sgerrand/ex_bamboo_hr](https://github.com/sgerrand/ex_bamboo_hr) (today)
+- [Explicitly set permissions for publish job](https://github.com/sgerrand/ex_companies_house/pull/32) on [sgerrand/ex_companies_house](https://github.com/sgerrand/ex_companies_house) (today)
+- [Reduce permissions of publish job](https://github.com/sgerrand/ex_incident_io/pull/81) on [sgerrand/ex_incident_io](https://github.com/sgerrand/ex_incident_io) (today)
+- [Actions: Reduce permissions for workflow jobs](https://github.com/sgerrand/quart-assets/pull/2) on [sgerrand/quart-assets](https://github.com/sgerrand/quart-assets) (today)
 - [Consistent Python executable across OS matrix](https://github.com/sgerrand/quart-assets/pull/1) on [sgerrand/quart-assets](https://github.com/sgerrand/quart-assets) (today)
-- [Fix broken contributing link](https://github.com/pallets/quart/pull/437) on [pallets/quart](https://github.com/pallets/quart) (today)
-- [Modernise](https://github.com/codecov/example-elixir/pull/5) on [codecov/example-elixir](https://github.com/codecov/example-elixir) (1 week ago)
-- [Fix typos](https://github.com/mkrd/Flask-Squeeze/pull/22) on [mkrd/Flask-Squeeze](https://github.com/mkrd/Flask-Squeeze) (2 weeks ago)
-- [Test updates to GitHub Actions](https://github.com/sgerrand/wallaby/pull/1) on [sgerrand/wallaby](https://github.com/sgerrand/wallaby) (4 weeks ago)
 
 ### Recent sponsors (thank you!)
 
